@@ -1,1 +1,4 @@
-# Office_Guru_App
+remember to do `npm install` before development
+
+Email :OfficeGuruSite
+Password :officeguru2019

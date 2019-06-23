@@ -1,0 +1,38 @@
+
+.sidenav {
+  position: fixed;
+  top: 53px;
+  height:100%;
+  width: 200px;
+  background:transparent;
+  overflow-x: hidden;
+  padding: 8px 0;
+  margin: 10px;
+}
+
+.sidenav button {
+  padding: 6px 8px 6px 16px;
+  font-size: 20px;
+  display:block;
+}
+
+.col-sm-2{
+  
+  margin-bottom: 20px; 
+}
+
+.fa >.badge
+{
+  background-color: red;
+  top:-2px;
+}
+
+.footer {
+    position: absolute;
+    height: 40px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin-top: -40px;
+}
+
